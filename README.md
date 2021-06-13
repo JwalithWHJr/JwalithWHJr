@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Jwalith
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning JavaScript
